@@ -2,7 +2,7 @@ import React from "react";
 
 function Marquee(props) {
   const message = "hello";
-  return (   
+  return (
     <marquee>{message}</marquee>
   );
 }
