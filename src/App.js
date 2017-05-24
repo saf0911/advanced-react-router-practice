@@ -13,7 +13,7 @@ import Settings from "./components/Settings";
 import Wall from "./components/Wall";
 import Profiles from "./components/Profiles";
 import Marquee from "./components/Marquee";
-import Profile from "./components/Profiles";
+import Profile from "./components/Profile";
 
 
 function App() {
@@ -45,8 +45,8 @@ const BasicExample = () => (
         <li><Link to="/settings">Settings</Link></li>
         <li><Link to="/wall">Wall</Link></li>
         <li><Link to="/Profiles">Profiles</Link></li>
-        <li><Link to="/marquee">Marquee</Link></li>
-        <li><Link to="/Profile">Profile</Link></li>
+        <li><Link to="/marquee/ThisismyAwesomeMarquee">Marquee</Link></li>
+        <li><Link to="/profile">Profile</Link></li>
 
       </ul>
 

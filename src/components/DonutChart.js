@@ -7,7 +7,7 @@ function DonutChart() {
                                 <h3 className="panel-title"><i className="fa fa-long-arrow-right fa-fw"></i> Donut Chart</h3>
                             </div>
                             <div className="panel-body">
-                                <div id="morris-donut-chart"></div>
+                                // <div id="morris-donut-chart"></div>
                                 <div className="text-right">
                                     <a href="#">View Details <i className="fa fa-arrow-circle-right"></i></a>
                                 </div>
